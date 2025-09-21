@@ -1,0 +1,5 @@
+{
+  "name": "AI Photo Editor Pro",
+  "description": "Un editor di immagini fotografiche potenziato dall'IA che permette di applicare modifiche standard o personalizzate tramite prompt di testo, mantenendo un'alta qualità dell'immagine.",
+  "requestFramePermissions": []
+}
